@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c6dfd84efdf3a244a6f1b62193776dd, type: 3}
+  m_Name: SpriteAnimationConfig
+  m_EditorClassIdentifier: 
+  _sequences:
+  - Track: 0
+    Sprites:
+    - {fileID: 21300000, guid: abe7b34e0bc123c468dddadfb7584550, type: 2}
+    - {fileID: 21300000, guid: 15dca793d25235f40b324e70fc9d9e53, type: 2}
+    - {fileID: 21300000, guid: f95e8bd8bfe781d40b95e6998601dcee, type: 2}
+    - {fileID: 21300000, guid: 744cc97c13ebc8741acc2ccf539a7e0e, type: 2}
+    - {fileID: 21300000, guid: 08af73daea3d61041a2720b291239de6, type: 2}
+    - {fileID: 21300000, guid: 93f09bc425dfd8c428b3024143ce5921, type: 2}
+    - {fileID: 21300000, guid: 7a8e3fb8bfd631e4183d3a4bf5aae9f1, type: 2}
+    - {fileID: 21300000, guid: 54a772c15675adf4a88f9b98a3d258c2, type: 2}
+  - Track: 1
+    Sprites:
+    - {fileID: 21300000, guid: 0899f5a900410f243bfe1e4c3e0cc807, type: 2}
+    - {fileID: 21300000, guid: 37a74ab654c604e49a6ee0053e6266c6, type: 2}
+    - {fileID: 21300000, guid: 043c8b6d2f4aece4b91f7ba8b1b6965b, type: 2}
+    - {fileID: 21300000, guid: e51d3f3d96a08214cb9a1eaad7d2958e, type: 2}
+    - {fileID: 21300000, guid: 3a75dcaf38008ee419fe65cc55324f7b, type: 2}
+    - {fileID: 21300000, guid: 1518084ce6c5c2245ac3bee3ab1c8d6c, type: 2}
+    - {fileID: 21300000, guid: f524726ef2bcca84d9813a3a8dfb5c8f, type: 2}
+    - {fileID: 21300000, guid: cef91613f46574647b4eb4757b0dc121, type: 2}
+    - {fileID: 21300000, guid: 0b3f38aa4dbee3842b1e9a48c006c1b7, type: 2}
+    - {fileID: 21300000, guid: 97b54e4ee50691146a2172b8b83c6493, type: 2}
+  - Track: 2
+    Sprites:
+    - {fileID: 21300000, guid: ffb1bcfe57dbccd46b56a5a42ad73d0e, type: 2}
+    - {fileID: 21300000, guid: 48db2cc8190928944827472793a84551, type: 2}
+    - {fileID: 21300000, guid: adc7d94761e24a94dbdc014948913673, type: 2}
+    - {fileID: 21300000, guid: 11521ccd5f3214e48850e8e7619c9508, type: 2}
+    - {fileID: 21300000, guid: 1da5a9adf7d12f3428d5e3da845ecaf2, type: 2}
+    - {fileID: 21300000, guid: 4169007df71bc4a418aecdfca2e3d705, type: 2}
+    - {fileID: 21300000, guid: 0712ba6b557688c46ba424cef2a389b0, type: 2}
+    - {fileID: 21300000, guid: 45e40ce82f4507f419266a1d0d8d73c4, type: 2}
+    - {fileID: 21300000, guid: 9568b99be97e08044814f1534e374fb4, type: 2}
+    - {fileID: 21300000, guid: 5c65f8bffe9f1464fb16b6b37830320b, type: 2}
+    - {fileID: 21300000, guid: 864b60db594c0f845a6829daa6055400, type: 2}
+    - {fileID: 21300000, guid: 8de3288ab8d84474eab608623ebbf8ca, type: 2}
+  - Track: 3
+    Sprites:
+    - {fileID: 21300000, guid: f9b874dd6ffe67d4b82d5ca8e6963c1b, type: 2}
+    - {fileID: 21300000, guid: c45ebcd004d147d4ea01e261b21c373f, type: 2}
+    - {fileID: 21300000, guid: 759e066ee15a3f544932d6f83d246e1c, type: 2}
+    - {fileID: 21300000, guid: 7fd96a4473edb8f429c08fef5ace2847, type: 2}
+    - {fileID: 21300000, guid: afdc4f4088aa363449c5794c12da9c64, type: 2}
+    - {fileID: 21300000, guid: 78906958aa641d443b33e27e7bace6f0, type: 2}
+    - {fileID: 21300000, guid: 7073f98c31cd4d44a802824c51b08c9e, type: 2}
+    - {fileID: 21300000, guid: a21426a27da9a9d45ad32a541497047f, type: 2}
+  - Track: 4
+    Sprites:
+    - {fileID: 21300000, guid: adfedb00348b4194b83d5c3f38a2d5db, type: 2}
+    - {fileID: 21300000, guid: e29968e6363001b45bc16cd9396c7789, type: 2}
+    - {fileID: 21300000, guid: 59a91e206cdf9ac45a27222fac3586b0, type: 2}
+    - {fileID: 21300000, guid: b303cd6aaa1e12e43afe8865b10748a3, type: 2}
+    - {fileID: 21300000, guid: c1f8fc446ff96b743aee16056ab065db, type: 2}
+    - {fileID: 21300000, guid: f9c92f1e33bd4e1468f93f56a9b05260, type: 2}
+  - Track: 5
+    Sprites:
+    - {fileID: 21300000, guid: 1114fca013e2e8942902dbe4510425f7, type: 2}
+    - {fileID: 21300000, guid: 01c7a0e4bbecfcb4f9c7d020aa9a2d01, type: 2}
+    - {fileID: 21300000, guid: b904496595fae174da8afe6a4cd46628, type: 2}
+    - {fileID: 21300000, guid: 2acdbeb0c45aafa4cbb82a3286d25ae9, type: 2}
+    - {fileID: 21300000, guid: 8b56147200adbee41bec2b6f635f26d7, type: 2}
+    - {fileID: 21300000, guid: effd630e08bd6254a9bd9e0c492be4ec, type: 2}
+    - {fileID: 21300000, guid: 6d1a322731476b6409575cf943727259, type: 2}
+    - {fileID: 21300000, guid: 1f91f97659a89b44796aacb287368772, type: 2}
+    - {fileID: 21300000, guid: d58a815c5ffbc4046821e4274dd921a9, type: 2}
+  - Track: 6
+    Sprites:
+    - {fileID: 21300000, guid: 62de4b6e94b8e394dadb72b76954fa8b, type: 2}
+    - {fileID: 21300000, guid: 14b826b2279254e49b036d5dee21cdf2, type: 2}
+    - {fileID: 21300000, guid: 63ecc635726eae54bb0c5438f752d6cd, type: 2}
+    - {fileID: 21300000, guid: 9040fe6561d1a0740b31f781592ed51c, type: 2}
+    - {fileID: 21300000, guid: d6dc7188394be2a4dba80c141af2cc99, type: 2}
+    - {fileID: 21300000, guid: ef8673cc90ee828478aaba9c4c5dc8ae, type: 2}
+  - Track: 7
+    Sprites:
+    - {fileID: 21300000, guid: 71c128650c7727a449702a5dbda26afa, type: 2}
+    - {fileID: 21300000, guid: 1c9d5ab5b12752243b09de185a850b8f, type: 2}
+    - {fileID: 21300000, guid: aabedaea9ed7dc94394b1d971651881b, type: 2}
+    - {fileID: 21300000, guid: d5812e6b4585e674fbc5ff0967b15aac, type: 2}
+    - {fileID: 21300000, guid: 9924591d737d0d641b16f342f76dc394, type: 2}
+    - {fileID: 21300000, guid: ef9c3c6e088728d41ad07305a6427d4b, type: 2}
+    - {fileID: 21300000, guid: ebd32a2c8ba394a4b825cf950dec49ce, type: 2}
+    - {fileID: 21300000, guid: 492714109bd554147b59ba1d741a2d0b, type: 2}
+    - {fileID: 21300000, guid: 4973a926fc162c049b254bae349609cd, type: 2}
